@@ -1,6 +1,6 @@
 # Blocklists for Technitium DNS
 
-I put this together to clean up my home network by blocking ads, trackers, and telemetry with [Technitium DNS Server](https://technitium.com/dns/). This repo contains a merged blocklist—either `merged_hosts.txt` or split into parts like `merged_hosts_part1.txt`, `merged_hosts_part2.txt`, etc.—designed to make your internet cleaner and more private.
+I put this together to clean up my home network by blocking ads, trackers, and telemetry with [Technitium DNS Server](https://technitium.com/dns/). This repo contains a merged blocklist—either `merged.hosts` and `merged.domains` or split into parts like `merged_hosts_part1.txt`, `merged_hosts_part2.txt`, etc.—designed to make your internet cleaner and more private.
 
 
 
